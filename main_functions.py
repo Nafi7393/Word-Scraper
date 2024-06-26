@@ -106,34 +106,3 @@ def remove_common_words(lst):
 if __name__ == '__main__':
     pass
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
